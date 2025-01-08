@@ -4,7 +4,7 @@ I'm currently working on Machine Learning/Deep Learning Projects, mainly using P
 
 ### Projects
 
-- **FAISS search index implementation:** Here we create an image classification model by fine-tuining resnet50 and use it to implement a FAISS similarity search.
+- **FAISS search index implementation:** Here we create an image classification model by fine-tuning resnet50 and use it to implement a FAISS similarity search.
 
 - **Multinational Retail Data Centralisation:** A development of a start-schema SQL database of a business with 450 stores.
 
